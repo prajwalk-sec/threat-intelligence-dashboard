@@ -157,10 +157,13 @@ Add screenshots of:
 
 - AI-powered Threat Detection
 - Real-time Threat Intelligence Feeds
-- Email Notifications
 - PDF Report Generation
 - Advanced Analytics
-- User Role Management
+- View previously scanned history
+- Download scan reports as PDF
+- Search and filter past scan results
+- Monitor threat severity and recommendations
+ 
 
 ---
 
