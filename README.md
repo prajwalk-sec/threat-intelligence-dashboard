@@ -127,16 +127,24 @@ Add screenshots of:
 <img width="1537" height="712" alt="Login Page" src="https://github.com/user-attachments/assets/2f1d292d-68fc-4c12-ba15-5739616306f6" />
 
 
+
+
 - Dashboard
 <img width="1877" height="660" alt="Dashboard" src="https://github.com/user-attachments/assets/e439f283-ca0f-4697-a6ec-759c5eb3a855" />
+
+
 
 
 - Threat Analysis
 <img width="1582" height="851" alt="Threat Analysis" src="https://github.com/user-attachments/assets/13cd1649-9562-4898-8d3d-564e686b7fe0" />
 
 
+
+
 - Risk Score
 <img width="1576" height="881" alt="Risk Score" src="https://github.com/user-attachments/assets/a927abc0-8012-4704-8fbe-3cea7fe1a5c8" />
+
+
 
 
 - Scan Results
