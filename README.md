@@ -128,20 +128,19 @@ Add screenshots of:
 
 
 - Dashboard
-- <img width="1877" height="660" alt="Dashboard" src="https://github.com/user-attachments/assets/e439f283-ca0f-4697-a6ec-759c5eb3a855" />
+<img width="1877" height="660" alt="Dashboard" src="https://github.com/user-attachments/assets/e439f283-ca0f-4697-a6ec-759c5eb3a855" />
 
 
 - Threat Analysis
-- <img width="1582" height="851" alt="Threat Analysis" src="https://github.com/user-attachments/assets/13cd1649-9562-4898-8d3d-564e686b7fe0" />
+<img width="1582" height="851" alt="Threat Analysis" src="https://github.com/user-attachments/assets/13cd1649-9562-4898-8d3d-564e686b7fe0" />
 
 
 - Risk Score
-- <img width="1576" height="881" alt="Risk Score" src="https://github.com/user-attachments/assets/a927abc0-8012-4704-8fbe-3cea7fe1a5c8" />
+<img width="1576" height="881" alt="Risk Score" src="https://github.com/user-attachments/assets/a927abc0-8012-4704-8fbe-3cea7fe1a5c8" />
 
 
-- 
 - Scan Results
-- <img width="1552" height="551" alt="Scan Results" src="https://github.com/user-attachments/assets/16ca6981-a3e1-4825-a3fd-6b791f694fbf" />
+<img width="1552" height="551" alt="Scan Results" src="https://github.com/user-attachments/assets/16ca6981-a3e1-4825-a3fd-6b791f694fbf" />
 
 
 ---
